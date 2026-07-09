@@ -12,6 +12,7 @@ Penetration Tester @ [Siege Cyber](https://www.siegecyber.com.au) | Cybersecurit
   <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/Y6NV8E86HNV11J9F"><img src="Certs_Imgs/security_plus.png" alt="CompTIA Security+" width="150"></a>&nbsp;&nbsp;
   <a href="https://cp.certmetrics.com/CompTIA/en/public/verify/credential/3ED2B1MTEBQQ1F9R"><img src="Certs_Imgs/network_plus.png" alt="CompTIA Network+" width="150"></a>&nbsp;&nbsp;
   <a href="Certs_Imgs/Deans_List_2025.pdf"><img src="Certs_Imgs/Deans_list_2025.png" alt="Dean's List 2025" width="150"></a>
+    <a href="Certs_Imgs/Deans_List_2026.pdf"><img src="Certs_Imgs/Deans_list_2026.png" alt="Dean's List 2025" width="150"></a>
 </p>
 
 | Certifications                                     | Issued   |

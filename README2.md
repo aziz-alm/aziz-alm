@@ -22,28 +22,6 @@
 - 🚩 Hands-on offensive security: **204 flags** captured across OffSec labs and **40 Hack The Box** machines completed
 - 📍 Based in Sydney, Australia · Bilingual in **English & Arabic**
 
-## 💼 Experience
-
-### 🛡️ Penetration Tester — [Siege Cyber](https://www.siegecyber.com.au)
-*Jun 2026 – Present · Remote*
-
-- Conduct **external and internal penetration tests**, identifying security vulnerabilities across networks, web applications, Microsoft 365, and Active Directory environments
-- Perform **reconnaissance, vulnerability assessment, and exploitation** — from initial foothold through privilege escalation and post-exploitation
-- Deliver **clear, actionable security reports** with remediation guidance tailored to both technical teams and executive audiences
-
-### 🤝 Resident Networker — University of Technology Sydney
-*Jul 2025 – May 2026 · Sydney, Australia*
-
-- Supported residents and helped build an inclusive, connected community across UTS student housing
-- Organised and ran community events, strengthening communication, leadership, and stakeholder skills that carry directly into client-facing security work
-
-## 🎓 Education
-
-| Qualification | Institution | Period | Result |
-| --- | --- | --- | --- |
-| **Bachelor of Cybersecurity** | University of Technology Sydney | 2024 – 2026 | **GPA 6.75/7** · Dean's List 2025 & 2026 |
-| **Foundation Studies** | UTS College | 2023 | GPA 8.1/10 |
-
 ## 📜 Certifications
 
 <p align="center">
